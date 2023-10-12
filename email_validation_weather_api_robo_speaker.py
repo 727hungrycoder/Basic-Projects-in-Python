@@ -52,11 +52,10 @@ while True:
 
  """
 
-# image resizer
 
-#  waitkey() function of Python OpenCV allows users to display a window for given milliseconds or until any key is pressed.
 
- # import cv2 install module opencv-python for cv2 library
+
+
 
 
 
